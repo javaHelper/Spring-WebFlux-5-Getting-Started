@@ -21,7 +21,7 @@ public class ProductApiApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		saveProducts();
+		//saveProducts();
 	}
 
 	public void saveProducts(){
